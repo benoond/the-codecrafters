@@ -1,0 +1,3 @@
+the-codecrafters
+
+he CodeCrafters combines “Code”, representing programming, problem-solving, and innovation, with “Crafters”, reflecting skill, creativity, and attention to detail. Together, the name conveys a philosophy of treating software development as both a technical craft and an art form—building solutions with precision, creativity, and purpose. It defines our identity, guides our work, and communicates our commitment to excellence and thoughtful innovation.
